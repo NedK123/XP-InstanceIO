@@ -26,6 +26,7 @@ dependencies {
     compileOnly("org.projectlombok:lombok")
     annotationProcessor("org.projectlombok:lombok")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
+    testImplementation("org.instancio:instancio-junit:4.5.0")
 }
 
 tasks.withType<Test> {
