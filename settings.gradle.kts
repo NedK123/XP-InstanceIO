@@ -1,1 +1,1 @@
-rootProject.name = "XP-InstanceIO"
+rootProject.name = "XP-TestDataGenerators"

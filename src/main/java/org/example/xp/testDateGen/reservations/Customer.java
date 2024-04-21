@@ -1,4 +1,4 @@
-package org.example.xpinstanceio.reservations;
+package org.example.xp.testDateGen.reservations;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package org.example.xpinstanceio;
+package org.example.xp.testDateGen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

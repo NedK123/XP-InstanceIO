@@ -1,4 +1,4 @@
-package org.example.xpinstanceio;
+package org.example.xp.testDateGen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
